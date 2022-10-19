@@ -1,1 +1,5 @@
-
+print("Login Page")
+u_n = input("Enter Username :")
+p_n = input("Enter Password :")
+if len(p_n) == 0:
+  exit(0);
