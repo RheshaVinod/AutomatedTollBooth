@@ -1,4 +1,4 @@
-# AuomatedTollBooth
+# AutomatedTollBooth
 Our implementation of the project 'Automated toll booth simulator' is as follows:
 We ask the user to enter the details of the vehicle (through buttons on our GUI) to calculate the
 toll fee appropriately. We register the license plate to our database if it does not exist. If the
